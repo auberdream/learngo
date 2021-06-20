@@ -5,7 +5,7 @@
 
 ## What does $GOPATH mean?
 * It's a file for Go runtime
-* Stores Go source code files and compiled packages
+* Stores Go source code files and compiled packages *CORRECT*
 * It's a path for gophers to follow
 
 ## Do you need to set $GOPATH?
